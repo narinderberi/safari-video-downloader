@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.oreilly.com	TRUE	/	FALSE	1630414051	_ga	GA1.2.376855326.1567341999
+.oreilly.com	TRUE	/	FALSE	1575117999	_gcl_au	1.1.28918127.1567341999
+.oreilly.com	TRUE	/	FALSE	1567428451	_gid	GA1.2.251836931.1567341999
+.oreilly.com	TRUE	/	FALSE	1630414028	_mkto_trk	id:107-FMS-070&amp;token:_mch-oreilly.com-1567341999280-68995
+.oreilly.com	TRUE	/	FALSE	1598964398	_vwo_uuid_v2	D130882A4062BFEF2B74CD949306C7A9E|066cfaaa87f638c7b3b78476df805d06
+.oreilly.com	TRUE	/	FALSE	1598878001	cd_user_id	16cecdcfc519bb-02ba0c2dbdc4ce-7373e61-e1000-16cecdcfc527ae
+.oreilly.com	TRUE	/	FALSE	1569934043	groot_sessionid	do9rw2ddrk7700836wm1o0w5uylck3z6
+.oreilly.com	TRUE	/	FALSE	0	logged_in	y
+.oreilly.com	TRUE	/	TRUE	1567352684	orm-jwt	eyJhbGciOiAiUlMyNTYifQ.eyJhY2N0cyI6IFsiZDMwYmFjYzQtNzA0YS00NDQzLThmZjMtZGY0NWNhYjY5YjczIl0sICJlaWRzIjogeyJoZXJvbiI6ICI1MzA4NGY5My03MmFmLTQ4MjgtODA2ZC0zMTVmMTVhY2Y2MDEifSwgImVudiI6ICJwcm9kdWN0aW9uIiwgImV4cCI6IDE1NjczNTM2OTIsICJpbmRpdmlkdWFsIjogZmFsc2UsICJwZXJtcyI6IHsiYWNhZG0iOiAidiIsICJhcGlkYyI6ICJ2IiwgImNuZnJjIjogInYiLCAiY3ByZXgiOiAidiIsICJjc3N0ZCI6ICJ2IiwgImVwdWJzIjogInYiLCAibHJwdGgiOiAidiIsICJsdnRyZyI6ICJ2IiwgIm9yaW9sIjogInYiLCAicGx5bHMiOiAidiIsICJ1c2FnZSI6ICJjIiwgInVzcnBmIjogImV2IiwgInZpZGVvIjogInYifSwgInN1YiI6ICJkMmE2YWVkYS05ODA2LTQyYjktOTMzZS1jMmMwYTEzZDA4MjEifQ.lYkuqYshp3tFZ66B8Hi1dVT6B56c5A9KBTkRcmBHy9yIRcp6EDs6DaJQhHn_rjqpIC-k3Jp1eBcuH8vxvbdoUubXPHoE8e2Ix09Z-u-YHNiqjYruxXV5QFfe4QLQytupzGhjXSEqO0UwcDVbHbjhZ9Ik_bO9WLyKsFD_en2OtRI
+.oreilly.com	TRUE	/	TRUE	1569934043	orm-rt	c6623e5448b6475ca0e5d13dd47fd9a9
+api.oreilly.com	FALSE	/	FALSE	1598791644	csrftoken	R9lUfdYDmgtwjeQJ39WB7SBYXkkfEiH7qub2Xbv8W3s68EJR4pu7fn5y0BukE4SB
+get.oreilly.com	FALSE	/	TRUE	0	BIGipServerab24web-nginx-app_https	2555445514.47617.0000
+learning.oreilly.com	FALSE	/	FALSE	1725022025	BrowserCookie	2e12179a-7615-4869-b196-e91d73501609
+learning.oreilly.com	FALSE	/	TRUE	1598791646	csrfsafari	2YoSMBy8Jv8ToyG71KtKpamC6csw2m1IAgXvSZ5jOXJ3qeX378DbblupcoZvJoK6
+learning.oreilly.com	FALSE	/	FALSE	1598878048	kampyleSessionPageCounter	1
+learning.oreilly.com	FALSE	/	FALSE	1598878048	kampyleUserSession	1567342048383
+learning.oreilly.com	FALSE	/	FALSE	1598878048	kampyleUserSessionsCount	1
+learning.oreilly.com	FALSE	/	FALSE	1598878048	kampyle_userid	3ec8-c67f-d13d-c69d-6353-426d-a0d4-8384
+learning.oreilly.com	FALSE	/	FALSE	1569934046	salesforce_id	a2c7c71710f809cfbce34689d00ec046
+learning.oreilly.com	FALSE	/	TRUE	1569934043	sessionid	2b32z1nch1izvq7q2mivs77heieb2a2f
+www.oreilly.com	FALSE	/	FALSE	1725021998	BrowserCookie	b876dd6c-1760-4d9a-8e75-a2a3c9153c60
+www.oreilly.com	FALSE	/	FALSE	1598878032	kampyleSessionPageCounter	2
+www.oreilly.com	FALSE	/	FALSE	1598878001	kampyleUserSession	1567342001072
+www.oreilly.com	FALSE	/	FALSE	1598878001	kampyleUserSessionsCount	1
+www.oreilly.com	FALSE	/	FALSE	1598878001	kampyle_userid	7cdc-4a24-9cfc-9a0b-d16b-695a-51f0-17be
+www.oreilly.com	FALSE	/	FALSE	2514113231	locale	en
