@@ -79,11 +79,11 @@ class SafariDownloader:
             for index, video in enumerate(videos_in_topic):
                 if '/videos/' in self.course_url:
                     print(video)
-                    onlyVideoName = video
+                    onlyVideoName = video.text
                 else:
                     onlyVideoName = video.span.text
 
-                print("onlyVideoName = " + onlyVideoName)
+                print("onlyVideoName = " + str(onlyVideoName))
                 video_name = '{:03d} - {}'.format(index + 1, onlyVideoName)
                 video_name = self.validify(video_name)
                 video_url = video.get('href')
@@ -132,12 +132,15 @@ class SafariDownloader:
                 print("DOWNLOAD FROM URL = " + video_url)
                 result = run(["youtube-dl", "--cookies", "cookies.txt", "-J", "--output", video_out, video_url], stdout=PIPE, stderr=PIPE, universal_newlines=True)
 
+                print(result.stdout)
                 video_url = json.loads(result.stdout)['url']
                 print("FIRST URL = " + video_url)
                 # sys.exit(0)
 
                 if video_url.startswith("http://cdnapi.kaltura.com/"):
+                    print("GETTING ONE MINUTE VIDEO RESPONSE")
                     oneMinuteVideoResponse = requests.head(video_url, headers={'cookie': self.getCookies()})
+                    print(oneMinuteVideoResponse)
                     video_url = oneMinuteVideoResponse.headers['Location']
 
                 if "/clipTo/60000/name/a.mp4" in video_url:
